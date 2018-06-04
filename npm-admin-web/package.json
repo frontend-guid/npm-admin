@@ -1,7 +1,7 @@
 {
-  "name": "LotteryAdmin.Web",
+  "name": "private-npm-admin",
   "version": "1.0.1",
-  "description": "Lottery Admin WebSite",
+  "description": "NPM Admin WebSite",
   "author": "liuzhuang <70458055@qq.com>",
   "private": false,
   "scripts": {
