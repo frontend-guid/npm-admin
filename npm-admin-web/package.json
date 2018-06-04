@@ -2,7 +2,7 @@
   "name": "LotteryAdmin.Web",
   "version": "1.0.1",
   "description": "Lottery Admin WebSite",
-  "author": "liuzhuang <liuzhuang.yiguo.com>",
+  "author": "liuzhuang <70458055@qq.com>",
   "private": false,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
